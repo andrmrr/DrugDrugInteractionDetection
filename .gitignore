@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+**.stats
+**.out
+**.crf
+**.feat
+**.joblib
+devel.feat
+.DS_Store

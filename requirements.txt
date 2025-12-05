@@ -1,0 +1,9 @@
+scikit-learn
+joblib
+argparse
+numpy
+pandas
+nltk
+python-crfsuite
+xgboost
+requests
